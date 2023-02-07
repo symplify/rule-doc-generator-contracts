@@ -1,0 +1,56 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\CodeSample\\\\ComposerJsonAwareCodeSample\\:\\:getComposerJson\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/CodeSample/ComposerJsonAwareCodeSample.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\CodeSample\\\\ConfiguredCodeSample\\:\\:getConfiguration\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/CodeSample/ConfiguredCodeSample.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\CodeSample\\\\ExtraFileCodeSample\\:\\:getExtraFile\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/CodeSample/ExtraFileCodeSample.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:getCodeSamples\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:getDescription\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:getRuleClass\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:getRuleFilePath\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:getRuleShortClass\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:isConfigurable\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:setRuleClass\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
+
+		-
+			message: "#^Public method \"Symplify\\\\RuleDocGenerator\\\\ValueObject\\\\RuleDefinition\\:\\:setRuleFilePath\\(\\)\" is never used$#"
+			count: 1
+			path: src/ValueObject/RuleDefinition.php
